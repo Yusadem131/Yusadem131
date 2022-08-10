@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on any source project 
 
 - 📫 How to reach me +2348059886726 on Whatsapp 
+-    abdulakeemyusuf67@gmail.com 
 
 <!---
 Yusadem131/Yusadem131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
