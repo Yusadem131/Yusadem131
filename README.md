@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yusadem131
-- 👀 I’m interested in Data Science, Dynamics 365, API Testing, Front end and Back end 
+- 👀 I’m interested in Data Science, Artificial Intelligence, Cyber-security, API Testing, Front end and Back end 
 - 🌱 I’m currently learning Deep learning 
 - 💞️ I’m looking to collaborate on any source project 
 
